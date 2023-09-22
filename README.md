@@ -1,5 +1,5 @@
 # Shrey Patel
-![profile_pic (1)](/images/profile_pic.jpg)
+![shrey patel profile picture](/images/profile_pic.png)
 
 ## About
 Experienced and innovative Senior Frontend Developer with four years of hands-on expertise in crafting exceptional user interfaces and delivering seamless web experiences. Proficient in the latest frontend technologies and frameworks, including React, Angular, and Node. Adept at collaborating with cross-functional teams to translate design concepts into responsive, high-performance web applications
