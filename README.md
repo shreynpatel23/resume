@@ -1,5 +1,5 @@
 # Shrey Patel
-![shrey patel profile picture](/images/profile_pic.png)
+<img src="/images/profile_pic.png" alt="Shrey Patel Profile Picture" width="120" title="Shrey Patel">
 
 ## About
 Experienced and innovative Senior Frontend Developer with four years of hands-on expertise in crafting exceptional user interfaces and delivering seamless web experiences. Proficient in the latest frontend technologies and frameworks, including React, Angular, and Node. Adept at collaborating with cross-functional teams to translate design concepts into responsive, high-performance web applications
